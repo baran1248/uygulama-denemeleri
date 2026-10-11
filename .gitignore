@@ -1,0 +1,12 @@
+# Build artifacts
+out/
+gen/
+obj/
+
+# Keystores
+debug.keystore
+*.keystore
+
+# Temporary files
+*.tmp
+*.swp
